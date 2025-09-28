@@ -9,7 +9,7 @@
 - Senior Machine Learning Engineer / Dreamer
 - Riding the AI & ML wave
 - Learning about distributed ML systems, multi-agent intelligence & LLM fine-tuning
-- Sharing my journey at [ibearu.com](ibearu.com])
+- Sharing my journey at [ibearu.com](https://ibearu.com])
 - Measuring life by the moments that take my breath away
 - From China → New Zealand → Australia →❓
 
